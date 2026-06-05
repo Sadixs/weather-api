@@ -47,6 +47,4 @@ This app uses the OpenWeather Current Weather Data API:
 
 ## Author
 
-**Sadixs**
-
-- GitHub: [@sadixs](https://github.com/Sadixs)
+- GitHub: [@SquishSec](https://github.com/SquishSec) - Before: @Sadixs
